@@ -1,0 +1,12 @@
+let prompt = require('prompt-sync')();
+
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
+
+
+// Entrada de dados
+
+console.log('Digite um valor: ');
